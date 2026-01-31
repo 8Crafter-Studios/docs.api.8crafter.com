@@ -2,7 +2,7 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <sitemap>
         <loc>https://docs.api.8crafter.com/sitemap.xml</loc>
-        <lastmod>2025-12-12T22:08:43.153Z</lastmod>
+        <lastmod>2026-01-31T21:07:50.739Z</lastmod>
     </sitemap>
     <sitemap>
         <loc>https://docs.api.8crafter.com/andexdb/v1.33.0/sitemap.xml</loc>
@@ -150,7 +150,7 @@
     </sitemap>
     <sitemap>
         <loc>https://docs.api.8crafter.com/mcbe-leveldb/v1.5.10/sitemap.xml</loc>
-        <lastmod>2025-12-12T22:06:54.898Z</lastmod>
+        <lastmod>2025-12-12T22:19:05.027Z</lastmod>
     </sitemap>
     <sitemap>
         <loc>https://docs.api.8crafter.com/mcbe-leveldb/v1.5.2/sitemap.xml</loc>
@@ -171,5 +171,13 @@
     <sitemap>
         <loc>https://docs.api.8crafter.com/mcbe-leveldb/v1.5.7/sitemap.xml</loc>
         <lastmod>2025-12-12T22:06:32.989Z</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>https://docs.api.8crafter.com/mcbe-leveldb/v1.6.0/sitemap.xml</loc>
+        <lastmod>2026-01-31T21:07:24.253Z</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>https://docs.api.8crafter.com/mcbe-leveldb/v1.7.0/sitemap.xml</loc>
+        <lastmod>2026-01-31T21:07:37.457Z</lastmod>
     </sitemap>
 </sitemapindex>

@@ -1,6 +1,8 @@
 "use strict"
 export const DOC_VERSIONS = [
 	'stable',
+	'v1.7.0',
+	'v1.6.0',
 	'v1.5.10',
 	'v1.5.7',
 	'v1.5.6',
